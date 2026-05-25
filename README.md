@@ -1,4 +1,4 @@
-# Fading-Echo-Modding -Fr
+# Fading-Echo-Modding -FR
 
 # Guide Complet : Modifier les Textes de Localisation dans Fading Echo Demo
 
