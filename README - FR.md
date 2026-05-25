@@ -125,5 +125,7 @@ Si les changements n'apparaissent pas :
 
 ---
 
-Ce guide a entièrement été écrit avec une intelligence artificielle.
-Ce guide a été testé sur Fading Echo Demo.
+Ce guide a été testé sur la démo Fading Echo.  
+Notez que la procédure peut varier pour d'autres modifications autres que celles-ci.  
+
+Ce guide a été entièrement rédigé par une intelligence artificielle.
