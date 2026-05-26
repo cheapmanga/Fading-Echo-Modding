@@ -1,5 +1,8 @@
 # Fading-Echo-Modding -FR
 
+<img width="1670" height="936" alt="image" src="https://github.com/user-attachments/assets/c774dbea-9f85-4399-b413-7e6268afa03b" />
+
+
 # Guide Complet : Modifier les Textes de Localisation dans Fading Echo Demo
 
 ## Prérequis
